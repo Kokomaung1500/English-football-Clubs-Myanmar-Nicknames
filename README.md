@@ -19,8 +19,7 @@ Welcome to the English Football Clubs Nicknames dataset! This dataset provides i
 
 ## Acknowledgements
 - The data in this dataset has been compiled by Pyae Sone Phyo.
-- Data sources include club websites, fan forums, and official publications.
-
+- Data sources include myanmar fooball fan communities and fan pages.
 ## License
 - This dataset is provided under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the data for any purpose, even commercially, as long as proper attribution is provided.
 
